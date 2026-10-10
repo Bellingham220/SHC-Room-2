@@ -1,0 +1,13 @@
+{
+  "name": "shc-room-1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SHC | ROOM 1 — HaxBall Headless Host",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "haxball.js": "latest"
+  }
+}
